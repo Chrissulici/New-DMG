@@ -1,0 +1,1 @@
+If you want to delete the variation of DMG for Skill "Rupture" leave the cell "skill_proto.sql > szPoinPoly2" empty.

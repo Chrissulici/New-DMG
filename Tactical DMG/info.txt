@@ -1,0 +1,13 @@
+I don't recommend to use the entire skill_proto just values from skills (szMasterBonusPoly)
+
+I don't have extra bonus on server just Dew:
+
+			affect.add_collect(apply.MAX_HP, 15000, 60*60*24*365*60)
+			affect.add_collect(apply.ATT_SPEED, 8, 60*60*24*365*60)
+			affect.add_collect(apply.CRITICAL_PCT, 40, 60*60*24*365*60)
+			affect.add_collect(apply.PENETRATE_PCT, 400, 60*60*24*365*60)
+			affect.add_collect(apply.ATT_GRADE_BONUS, 120, 60*60*24*365*60)
+			affect.add_collect(apply.RESIST_MAGIC, 20, 60*60*24*365*60)
+			affect.add_collect(apply.MALL_ATTBONUS, 20, 60*60*24*365*60)
+
+Maybe for some people the DMG will not match.
